@@ -84,7 +84,9 @@
   - 아기에게 수유하고 트림 시키는 Scripts
 - Diper
   - 기저귀를 가는 단계를 세부적으로 나눈 Scripts
-  
+
+### 결과 영상
+https://www.youtube.com/watch?v=CQG96e96ryk
  ---
 
  
